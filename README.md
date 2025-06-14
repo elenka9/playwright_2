@@ -6,4 +6,4 @@
 
 **Language:** Type Script
 
-**About proejct**: Учусь писать тесты на Playwright+Type Script. 
+**About project**: Учусь писать тесты на Playwright+Type Script. 
