@@ -1,5 +1,4 @@
-﻿# my-first-playwright-test
-# [My first playwright test](https://elenka9.github.io/MyFavMusic/)
+# [My first playwright test](https://github.com/elenka9/my-first-playwright-test/blob/main/playwright.config.ts)
 
 *☝️ клик, чтобы посмотреть*
 
