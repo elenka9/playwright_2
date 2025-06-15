@@ -19,7 +19,7 @@
 *Инструмент:*  Playwright - это библиотека Node.js для автоматизации Chromium, Firefox и WebKit с помощью одного API
 
 
-[Модифицируем этот же код, делаем его масштабируемым](https://github.com/elenka9/playwright_2/blob/main/tests_2/mainPage.spec.ts)
+[Модифицируем этоn [код](https://github.com/elenka9/playwright_1/blob/main/tests_2/mainPage.spec.ts), делаем его масштабируемым](https://github.com/elenka9/playwright_2/blob/main/tests_2/mainPage.spec.ts)
 
 - создала интерфейс, чтобы затипизировать список элементов
 - создала переменную элементы (const = elements), чтобы сделать код расширяемым и добавлять новые элементы при необходимости
