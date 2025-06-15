@@ -64,7 +64,7 @@ const elements: Elements[] = [
   },
   {
     locator: (page: Page): Locator => page.getByRole('link', { name: 'Discord server' }),
-    name: 'Discrord icon',
+    name: 'Discord icon',
     attribute: {
       type: 'href',
       value: 'https://aka.ms/playwright/discord',
